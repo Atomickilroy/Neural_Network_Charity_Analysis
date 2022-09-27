@@ -2,10 +2,18 @@
 
 ## Overview of Project
  
-#### *Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. So, they’ve asked you to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.*
+#### *To create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.*
+
+Working with Alphabet Soup’s business team, and a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization.
+
+- Using Pandas and the Scikit-Learn’s StandardScaler(), preprocess the dataset in order to compile, train, and evaluate the neural network model.
+
+- Then using TensorFlow, design a neural network, or deep learning model, to create a binary classification model that can predict if an Alphabet Soup–funded organization will be successful based on the features in the dataset.
+
+- Lastly compile, train, and evaluate your binary classification model again and try and optimize the accuracy (calculate the model’s loss and accuracy, for both.)
  
-<!--![mobile](https://github.com/Atomickilroy/Credit_Risk_Analysis/blob/main/png/Screenshot%202022-09-17%20124821.png) -->
- 
+![mobile](https://github.com/Atomickilroy/Neural_Network_Charity_Analysis/blob/main/png/Screenshot%202022-09-27%20001941.png))
+
  
 ## Purpose
  
