@@ -24,7 +24,7 @@
 
 ### Data Preprocessing
 --- 
-![mobile](https://github.com/Atomickilroy/Cryptocurrencies/blob/main/images/bokeh_plot%20(2).png)
+![mobile](https://github.com/Atomickilroy/Neural_Network_Charity_Analysis/blob/main/png/Screenshot%202022-09-27%20001237.png)
 
 #### What variable(s) are considered the target(s) for your model?
   -
@@ -41,7 +41,7 @@
 
 ### Compiling, Training, and Evaluating the Model
 --- 
-![mobile](https://github.com/Atomickilroy/Cryptocurrencies/blob/main/images/d1.png) 
+![mobile](https://github.com/Atomickilroy/Neural_Network_Charity_Analysis/blob/main/png/Train.png) 
 
 #### How many neurons, layers, and activation functions did you select for your neural network model, and why?
   -
@@ -53,26 +53,6 @@
   - 
 
 
- 
-### Clustering Cryptocurrencies Using K-means:
-
-
-
-![mobile](https://github.com/Atomickilroy/Cryptocurrencies/blob/main/images/d3%20clustering.png)    
- 
-   
- 
- 
-###  Visualizing Cryptocurrencies Results:
-
-
-
-![3-d](https://github.com/Atomickilroy/Cryptocurrencies/blob/main/images/newplot%20(3).png)
- 
-
- 
-![cluster](https://github.com/Atomickilroy/Cryptocurrencies/blob/main/images/bokeh_plot%20(1).png)
- 
  
  
  
